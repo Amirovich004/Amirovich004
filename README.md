@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 Tools & Technologies  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Blue?style=for-the-badge&logo=kali-linux&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Blue?style=for-the-badge&logo=kali-linux&logoColor=black)  
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Orange?style=for-the-badge&logo=burp-suite&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/Metasploit-Red?style=for-the-badge&logo=metasploit&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-Blue?style=for-the-badge&logo=wireshark&logoColor=white)  
@@ -56,5 +56,3 @@
 ---
 
 ## **🚀 Now, what's next?**  
-📌 Add this `README.md` to your `Amirovich004` repository, and your **GitHub profile will be transformed!**  
-🔹 If you need any custom tweaks, just let me know! 😎

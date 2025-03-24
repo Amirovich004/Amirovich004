@@ -36,7 +36,7 @@
 ---
 
 ## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/amir-fathi-8a98bb226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/amir-fathi-8a98bb226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/amirovich004)  
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-Profile-green?style=for-the-badge&logo=hack-the-box)](https://app.hackthebox.com/profile/YOUR_PROFILE)  
 

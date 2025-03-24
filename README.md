@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Amirovich004  
+🔹 Cyber Security student specializing in **Penetration Testing, Threat Hunting, and Network Security**.  
+🔹 Passionate about **CTFs, Open Source Security Tools, and Ethical Hacking**.  
+🔹 Always learning and improving my skills in **Offensive Security & Digital Forensics**.  
 
-<!--
-**Amirovich004/Amirovich004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Blue?style=for-the-badge&logo=kali-linux&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Orange?style=for-the-badge&logo=burp-suite&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-Red?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-Blue?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-Green?style=for-the-badge&logo=nmap&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Featured Projects  
+🔹 [Automated Recon Tool](https://github.com/Amirovich004/recon-tool) - A Python-based reconnaissance tool for bug bounty hunters.  
+🔹 [CTF Write-ups](https://github.com/Amirovich004/CTF-Writeups) - My solutions for various Capture The Flag challenges.  
+🔹 [Custom Exploits](https://github.com/Amirovich004/Exploits) - A collection of exploit scripts for penetration testing.  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirovich004&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirovich004&layout=compact&theme=dark)  
+
+---
+
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/YOUR_PROFILE)  
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-Profile-green?style=for-the-badge&logo=hack-the-box)](https://app.hackthebox.com/profile/YOUR_PROFILE)  
+
+---
+
+## 🚀 Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+- 🔹 [How to Perform OSINT Like a Pro](https://yourblog.com/osint-guide)  
+- 🔹 [Web Application Penetration Testing 101](https://yourblog.com/web-pentest)  
+<!-- BLOG-POST-LIST:END -->  
+
+---
+
+### **💡 Pro Tips:**  
+✅ Keep your projects updated and well-documented.  
+✅ Contribute to **Open Source Security Tools** to build your reputation.  
+✅ Participate in **Bug Bounty Programs** and share sanitized **Write-ups**.  
+✅ Follow and engage with top security professionals on GitHub and LinkedIn.  
+
+---
+
+### **⚡ Let's Connect!**  
+🔥 If you’re into cybersecurity, let’s collaborate! Feel free to check out my projects and share feedback.  
+
+---
+
+## **🚀 Now, what's next?**  
+📌 Add this `README.md` to your `Amirovich004` repository, and your **GitHub profile will be transformed!**  
+🔹 If you need any custom tweaks, just let me know! 😎

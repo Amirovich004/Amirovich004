@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amirovich004  
+# 👋 Hi, I'm Amer  
 🔹 Cyber Security student specializing in **Penetration Testing, Threat Hunting, and Network Security**.  
 🔹 Passionate about **CTFs, Open Source Security Tools, and Ethical Hacking**.  
 🔹 Always learning and improving my skills in **Offensive Security & Digital Forensics**.  
@@ -50,13 +50,6 @@
 <!-- BLOG-POST-LIST:END -->  
 
 ---
-
-### **💡 Pro Tips:**  
-✅ Keep your projects updated and well-documented.  
-✅ Contribute to **Open Source Security Tools** to build your reputation.  
-✅ Participate in **Bug Bounty Programs** and share sanitized **Write-ups**.  
-✅ Follow and engage with top security professionals on GitHub and LinkedIn.  
-
 ---
 
 ### **⚡ Let's Connect!**  

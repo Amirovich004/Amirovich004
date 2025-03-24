@@ -38,7 +38,7 @@
 
 ## 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/YOUR_PROFILE)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/amirovich004)  
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-Profile-green?style=for-the-badge&logo=hack-the-box)](https://app.hackthebox.com/profile/YOUR_PROFILE)  
 
 ---

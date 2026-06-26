@@ -1,20 +1,11 @@
 # 👋 Hi, I'm Amer  
 🔹 Cyber Security student specializing in **Penetration Testing, Threat Hunting, and Network Security**.  
 🔹 Passionate about **CTFs, Open Source Security Tools, and Ethical Hacking**.  
-🔹 Always learning and improving my skills in **Offensive Security & Digital Forensics**.  
-
-## 🔧 Tools & Technologies  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Blue?style=for-the-badge&logo=kali-linux&logoColor=black)  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Orange?style=for-the-badge&logo=burp-suite&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/Metasploit-Red?style=for-the-badge&logo=metasploit&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-Blue?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-Green?style=for-the-badge&logo=nmap&logoColor=white)  
-
+🔹 Always learning and improving my skills in **Offensive Security & Digital Forensics**. 
 ---
 ## 🖥️ Programming Languages  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)   
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 

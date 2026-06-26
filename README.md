@@ -42,7 +42,3 @@
 
 ### **⚡ Let's Connect!**  
 🔥 If you’re into cybersecurity, let’s collaborate! Feel free to check out my projects and share feedback.  
-
----
-
-## **🚀 Now, what's next?**  

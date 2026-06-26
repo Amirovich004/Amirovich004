@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amer  
-I’m an IT professional with a strong foundation in Windows and Linux administration, Active Directory, and network troubleshooting. I self-studied CompTIA A+ and Network+ content and built hands-on experience supporting systems, users, and connected devices. I also have a programming background in Python, JavaScript, Node.js, and Django, which helps me approach automation and problem-solving from both an infrastructure and development perspective.
-I’m currently focused on growing in DevOps, networking, and systems administration, with interest in automation, CI/CD, and cloud fundamentals. I’m open to Junior DevOps, Junior Network, and Systems Engineer opportunities where I can contribute, learn, and keep building practical experience.
+I’m an IT professional with a strong foundation in Windows and Linux administration, Active Directory, and network troubleshooting.
+I’m currently focused on growing in DevOps, networking, and systems administration, with interest in automation, CI/CD, and cloud fundamentals.
 ---
 ## 🖥️ Programming Languages  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  

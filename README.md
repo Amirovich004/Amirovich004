@@ -2,19 +2,6 @@
 I’m an IT professional with a strong foundation in Windows and Linux administration, Active Directory, and network troubleshooting.
 I’m currently focused on growing in DevOps, networking, and systems administration, with interest in automation, CI/CD, and cloud fundamentals.
 ---
-## 🖥️ Programming Languages  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)   
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirovich004&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirovich004&layout=compact&theme=dark)  
-
----
 
 ## 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amir-fathi-8a98bb226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
